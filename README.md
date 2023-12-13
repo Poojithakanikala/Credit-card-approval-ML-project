@@ -3,14 +3,20 @@
 ## Introduction
 The Credit Card Approval Rate Analysis project aims to develop a robust machine learning model that accurately predicts whether a credit card application should be approved or not. By leveraging historical credit card application data and various applicant financial attributes, this project employs advanced machine learning techniques to achieve an impressive accuracy rate of 91%.
 
-## Objectives
+## Objectives:
 
 . Develop a predictive model to assess credit card approval outcomes.
+
 . Preprocess the dataset to handle missing values, outliers, and categorical features.
+
 . Implement a machine learning pipeline for feature selection and model training.
+
 . Evaluate the model's performance using appropriate evaluation metrics.
+
 . Achieve a high accuracy rate of 91% or above.
+
 . Data Collection and Preprocessing
+
 . The dataset contains historical credit card application data with attributes such as income, age, employment status, and credit history. Preprocessing steps include:
 
 ## Handling missing values using imputation techniques:
