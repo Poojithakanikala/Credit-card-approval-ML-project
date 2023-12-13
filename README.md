@@ -1,7 +1,7 @@
 # Credit-card-approval-ML-project
 
 ## Introduction:
-The Credit Card Approval Rate Analysis project aims to develop a robust machine learning model that accurately predicts whether a credit card application should be approved or not. By leveraging historical credit card application data and various applicant financial attributes, this project employs advanced machine learning techniques to achieve an impressive accuracy rate of 91%.
+The Credit Card Approval Rate Analysis project aims to develop a robust machine learning model that accurately predicts whether a credit card application should be approved or not. By leveraging historical credit card application data and various applicant financial attributes, this project employs advanced machine learning techniques to achieve an impressive accuracy rate of 92%.
 
 ## Objectives:
 
