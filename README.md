@@ -39,28 +39,33 @@ Various machine learning algorithms are considered, including Logistic Regressio
 
 The model's performance is evaluated using metrics like:
 
-. Accuracy
+* Accuracy
 
-. Precision
+* Precision
 
-. Recall
+* Recall
 
-. F1-Score
+* F1-Score
 
-. ROC Curve and AUC
+* ROC Curve and AUC
 
-. Results and Conclusion
+* Results and Conclusion
 
-. The project achieves an accuracy rate of 91%, demonstrating the effectiveness of the developed machine learning model in predicting credit card approval outcomes. Details about the chosen model, its hyperparameters, and evaluation metrics are documented in the final report.
+* The project achieves an accuracy rate of 91%, demonstrating the effectiveness of the developed machine learning model in predicting credit card approval outcomes. Details about the chosen model, its hyperparameters, and evaluation metrics are documented in the final report.
 
 ## Future Enhancements:
 
-Exploring ensemble methods to improve accuracy further.
-Implementing advanced feature engineering techniques.
-Incorporating additional relevant data sources.
-Enhancing model interpretability.
-Ethical Considerations
-Addressing potential biases in the data to ensure fair credit approval decisions. Strategies like fairness-aware algorithms and bias audits are explored.
+* Exploring ensemble methods to improve accuracy further.
+
+* Implementing advanced feature engineering techniques.
+
+* Incorporating additional relevant data sources.
+
+* Enhancing model interpretability.
+
+* Ethical Considerations.
+
+* Addressing potential biases in the data to ensure fair credit approval decisions. Strategies like fairness-aware algorithms and bias audits are explored.
 
 ## Conclusion:
 
