@@ -69,5 +69,5 @@ The model's performance is evaluated using metrics like:
 
 ## Conclusion:
 
-The Credit Card Approval Rate Analysis project successfully creates a machine learning model with a 91% accuracy rate in predicting credit card approval outcomes. This model can provide valuable insights for financial institutions to optimize their credit approval processes.
+The Credit Card Approval Rate Analysis project successfully creates a machine learning model with a 92% accuracy rate in predicting credit card approval outcomes. This model can provide valuable insights for financial institutions to optimize their credit approval processes.
 
